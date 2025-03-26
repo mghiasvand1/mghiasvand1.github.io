@@ -9,7 +9,7 @@ body { background-color: #fff; padding: 0px; font: 16.0px/1.5 Crimson Pro, serif
 }
 
 em {
-    color: #043361;
+    color: #043361 !important;
 }
 
 .content {
