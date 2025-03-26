@@ -8,6 +8,10 @@ body { background-color: #fff; padding: 0px; font: 16.0px/1.5 Crimson Pro, serif
   color: black !important;
 }
 
+em {
+    color: #043361;
+}
+
 .content {
   margin: 0 auto; /* Centers the content */
   padding: 15px; /* Adds space inside the section */
