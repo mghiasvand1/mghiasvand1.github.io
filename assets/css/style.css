@@ -4,6 +4,10 @@ body { background-color: #fff; padding: 0px; font: 16.0px/1.5 Crimson Pro, serif
 
 .wrapper { width: 950px; margin: 0 auto; }
 
+.about p {
+  color: black !important;
+}
+
 .content {
   margin: 0 auto; /* Centers the content */
   padding: 15px; /* Adds space inside the section */
